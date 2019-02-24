@@ -10,3 +10,5 @@ No-show-appointments dataset has information from 100k medical appointments in B
  ## analysis 
 In this report, I will invistigate what factors are important for us to know in order to predict if a patient will show up for their scheduled appointment. Especially, I will explore the relationship between the scholarship and no-show. Also, I will look into patient's age and health condition to see if they have effect on no-show. Finally, I will check if receiving SMS-reminders would make patient show-up"
 
+## used language 
+Python 
