@@ -8,7 +8,7 @@ No-show-appointments dataset has information from 100k medical appointments in B
     3- Scholarship: indicates whether or not the patient is enrolled in Brasilian welfare program Bolsa Família. 
  
  ## analysis 
-In this report, I will invistigate what factors are important for us to know in order to predict if a patient will show up for their scheduled appointment. Especially, I will explore the relationship between the scholarship and no-show. Also, I will look into patient's age and health condition to see if they have effect on no-show. Finally, I will check if receiving SMS-reminders would make patient show-up"
+In this project, I invistigated what factors are important for us to know in order to predict if a patient will show up for their scheduled appointment. Especially, I explored the relationship between the scholarship and no-show. Also, I looked into patient's age and health condition to see if they have effect on no-show. Finally, I checked if receiving SMS-reminders would make patient show-up.
 
 ## used language 
-Python 
+Python: pandas, numpy and matplotlib.pyplot
